@@ -13,7 +13,7 @@ tags: Machine-Learning Deep-Learning
 整體物件辨識流程
 -------------
 
-![Image](../../../assets/images/retraining-1.png "Image")
-![Image](../../../assets/images/retraining-2.png "Image")
-![Image](../../../assets/images/retraining-3.png "Image")
-![Image](../../../assets/images/retraining-4.png "Image")
+![Image](https://raw.githubusercontent.com/Fugu-Lin/Fugu-Lin.github.io/master/assets/images/retraining-1.PNG "Image")
+![Image](https://raw.githubusercontent.com/Fugu-Lin/Fugu-Lin.github.io/master/assets/images/retraining-2.PNG "Image")
+![Image](https://raw.githubusercontent.com/Fugu-Lin/Fugu-Lin.github.io/master/assets/images/retraining-3.PNG "Image")
+![Image](https://raw.githubusercontent.com/Fugu-Lin/Fugu-Lin.github.io/master/assets/images/retraining-4.PNG "Image")
