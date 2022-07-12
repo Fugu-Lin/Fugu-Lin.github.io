@@ -43,18 +43,6 @@ Hello, I am Fugu-Lin. Nice to meet you!
 
    2019-09 - 2021-06
 
-* 宜蘭大學 資訊工程學系
-
-  2017-09 - 2019-06
-
-* 聯合大學 電子工程系
-
-  2016-09 - 2017-06
-
-* 朝陽科技大學 資訊與通訊系
-
-  2015-09 - 2016-06
-
 ## Published Papers
 
 **<font color=red>Journal</font>**
