@@ -28,7 +28,7 @@ key: page-about
 
 <img class="image image--md circle" src="https://i.imgur.com/u9zgp5j.jpeg" referrerpolicy="no-referrer"/>
 
-您好！我是林昀葦。一位將資料探勘、數據分析領域視為「DREAM JOB」的人。
+您好！我是林昀葦。一位將資料探勘、數據分析領域視為「DREAM JOB」的新鮮人。
 
 願意花一輩子的時間鑽研自己喜歡的事物。
 
