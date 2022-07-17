@@ -28,11 +28,15 @@ key: page-about
 
 <img class="image image--md circle" src="https://i.imgur.com/u9zgp5j.jpeg" referrerpolicy="no-referrer"/>
 
-您好！我是林昀葦。畢業於國立宜蘭大學資訊工程系碩士班。
+您好！我是林昀葦。一位將資料探勘、數據分析領域視為「DREAM JOB」的人。
+
+願意花一輩子的時間鑽研自己喜歡的事物。
 
 勇於挑戰新事物，不怕麻煩單調，細心努力追求完美。
 
 喜歡處於具有壓力的環境，與身旁的夥伴一起變強。
+
+
 
 ```javascript
 Hello, I am Fugu-Lin. Nice to meet you =)
