@@ -35,7 +35,7 @@ key: page-about
 喜歡處於具有壓力的環境，與身旁的夥伴一起變強。
 
 ```javascript
-Hello, I am Fugu-Lin. Nice to meet you!
+Hello, I am Fugu-Lin. Nice to meet you =)
 ```
 
 ## Education
